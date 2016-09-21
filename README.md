@@ -14,8 +14,8 @@ convert csv file to html table
 
 test.data:
 
-![test_raw.png](test_raw.png)
+![test_raw.png](images/test_raw.png)
 
 test.html:
 
-![test.png](test.png)
+![test.png](images/test.png)

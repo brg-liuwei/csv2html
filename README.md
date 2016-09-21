@@ -2,11 +2,13 @@
 
 convert csv file to html table
 
+### Installation
+
+    go get -u github.com/brg-liuwei/csv2html
 
 ### Usage
 
-    go get -u github.com/brg-liuwei/csv2html
-    csv2html -csv data.csv > data.html
+    csv2html -h
 
 ### eg:
 

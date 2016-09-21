@@ -12,4 +12,10 @@ convert csv file to html table
 
     csv2html -csv test.data > test.html
 
+test.data:
+
+![test_raw.png](test_raw.png)
+
+test.html:
+
 ![test.png](test.png)
